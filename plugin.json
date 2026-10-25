@@ -1,0 +1,9 @@
+{
+    "name": "rgc",
+    "author": "rgc-lang",
+    "version": "0.1.0",
+    "description": "RGC syntax highlighting",
+    "repository": "https://github.com/rgc-lang/micro-rgc",
+    "website": "https://github.com/rgc-lang/micro-rgc",
+    "license": "Apache-2.0"
+}
