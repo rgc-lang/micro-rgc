@@ -1,0 +1,16 @@
+[{
+  "Name": "rgc",
+  "Description": "RGC syntax highlighting for micro",
+  "Tags": ["rgc", "language", "syntax"],
+  "Website": "https://github.com/rgc-lang/micro-rgc",
+  "License": "Apache-2.0",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "Url": "https://github.com/rgc-lang/micro-rgc/archive/v0.1.0.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]
